@@ -1,5 +1,4 @@
-# OmniVirt VR Player: 360° Video Player for Unity (iOS, Android, Cardboard, Gear VR, Daydream)
-
+﻿# VR Video Player
 ![Screenshot](https://github.com/Codemaker2015/VR-Video-Player/blob/master/Screenshots/Screenshot.png)
 
 **OmniVirt** makes the leading player for 360° video experiences across mobile and desktop. Upload your 360° content to OmniVirt and serve it into your app with few easy steps.
